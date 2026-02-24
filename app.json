@@ -1,5 +1,11 @@
 [
     {
+        "n": "ŞÖMİNETV",
+        "l": "https://raw.githubusercontent.com/sevdimcim/vod-max/refs/heads/main/image/somine-tv.png",
+        "cat": "Ulusal",
+        "u": "http://iptv.prosto.tv:7000/ch331/video.m3u8"
+    },
+    {
         "n": "TRT 1",
         "l": "https://raw.githubusercontent.com/sevdimcim/vod-max/refs/heads/main/image/trt1-tv.png",
         "cat": "Ulusal",
